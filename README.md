@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeriel-fire
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Data Science in Python on Datacamp
 - 💞️ I’m looking to collaborate on Google sheet, Excel, Mysql and Power BI projects
 - 📫 You can mail me at amodeyakub@gmail.com or www.linkedin.com/in/yakubamode
 
