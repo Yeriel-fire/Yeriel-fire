@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yeriel-fire
+- 👋 Hi, I’m @Yakub_Amode
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Data Data Science in Python on Datacamp
 - 💞️ I’m looking to collaborate on Google sheet, Excel, Mysql and Power BI projects
